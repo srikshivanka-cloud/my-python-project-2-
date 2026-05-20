@@ -1,0 +1,6 @@
+Soccer Player Report
+
+Messi: Goals=3, Assists=1, Matches=2, AvgGoals=1.50, Category=Elite
+Ronaldo: Goals=3, Assists=1, Matches=2, AvgGoals=1.50, Category=Elite
+Neymar: Goals=1, Assists=2, Matches=1, AvgGoals=1.00, Category=Elite
+Mbappe: Goals=2, Assists=1, Matches=1, AvgGoals=2.00, Category=Elite

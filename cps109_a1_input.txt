@@ -1,0 +1,6 @@
+Messi, 2, 1, 90
+Messi, 1, 0, 85
+Ronaldo, 3, 0, 90
+Ronaldo, 0, 1, 90
+Neymar, 1, 2, 88
+Mbappe, 2, 1, 90
