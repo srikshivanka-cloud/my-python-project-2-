@@ -26,7 +26,7 @@ and use of lists, tuples, and dictionaries.
 import sys
 
 INPUT_FILE = "Soccer_Player_Performance_Analyzer_input.txt"
-OUTPUT_FILE = "cps109_a1_output.txt"
+OUTPUT_FILE = "Soccer_Player_Performance_Analyzer_output.txt"
 
 players = {}
 
